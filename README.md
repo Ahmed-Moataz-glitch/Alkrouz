@@ -164,17 +164,30 @@ lib/
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <b>🏠 Home Feed (Seasons)</b><br/><br/>
-        <img src="assets/images/splash_ios_android_11.png" width="220" alt="Home Feed" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <td align="center" width="20%">
+        <b>🚀 Splash Screen</b><br/>
+        <sub>شاشة البداية</sub><br/><br/>
+        <img src="Screenshot_1789218989.png" width="180" alt="Splash Screen" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
       </td>
-      <td align="center" width="33%">
-        <b>▶️ Video Details & Player</b><br/><br/>
-        <img src="assets/images/splash_ios_android_12.png" width="220" alt="Video Player" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <td align="center" width="20%">
+        <b>🏠 Season 1 Feed</b><br/>
+        <sub>الكروز الأول</sub><br/><br/>
+        <img src="Screenshot_1789219019.png" width="180" alt="Season 1 Feed" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
       </td>
-      <td align="center" width="33%">
-        <b>👤 Channel Profile & Stats</b><br/><br/>
-        <img src="assets/images/splash_ios_android_11.png" width="220" alt="Profile Screen" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <td align="center" width="20%">
+        <b>🚢 Season 2 Feed</b><br/>
+        <sub>الكروز الثاني</sub><br/><br/>
+        <img src="Screenshot_1789219035.png" width="180" alt="Season 2 Feed" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      </td>
+      <td align="center" width="20%">
+        <b>▶️ Video Player</b><br/>
+        <sub>تفاصيل ومشغل الفيديو</sub><br/><br/>
+        <img src="Screenshot_1789219090.png" width="180" alt="Video Details and Player" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      </td>
+      <td align="center" width="20%">
+        <b>👤 Channel Profile</b><br/>
+        <sub>الملف الشخصي والإحصائيات</sub><br/><br/>
+        <img src="Screenshot_1789219103.png" width="180" alt="Channel Profile and Stats" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
       </td>
     </tr>
   </table>
