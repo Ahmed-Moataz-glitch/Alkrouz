@@ -26,6 +26,7 @@
 - [Architecture & Design](#-architecture--design)
 - [Directory Structure](#-directory-structure)
 - [Tech Stack & Dependencies](#-tech-stack--dependencies)
+- [Demo Video](#-demo-video--العرض-التوضيحي)
 - [Screenshots & UI Showcase](#-screenshots--ui-showcase)
 - [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
@@ -156,6 +157,26 @@ lib/
 | **Notifications** | [toastification](https://pub.dev/packages/toastification) | `^3.0.3` | Elegantly styled in-app toasts & alerts |
 | **Internationalization** | [intl](https://pub.dev/packages/intl) | `0.20.2` | Date & number formatting |
 | **Splash Screen** | [flutter_native_splash](https://pub.dev/packages/flutter_native_splash) | `^2.4.7` | Native splash screen configuration |
+
+---
+
+## 🎬 Demo Video / العرض التوضيحي
+
+<div align="center">
+
+<video src="alkrouz.mp4" controls="controls" width="320">
+  Your browser does not support the video tag.
+</video>
+
+<br/>
+
+[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch%20Demo%20Video-alkrouz.mp4-02569B?style=for-the-badge)](alkrouz.mp4)
+
+<br/>
+
+> 📹 **[اضغط هنا لمشاهدة العرض التوضيحي للتطبيق / Click here to watch the demo video](alkrouz.mp4)**
+
+</div>
 
 ---
 
