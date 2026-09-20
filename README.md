@@ -164,13 +164,13 @@ lib/
 
 <div align="center">
 
-<video src="alkrouz.mp4" controls="controls" width="320">
+<video src="https://youtube.com/shorts/Eg3gFBInQiE?feature=share" controls="controls" width="320">
   Your browser does not support the video tag.
 </video>
 
 <br/>
 
-[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch%20Demo%20Video-alkrouz.mp4-02569B?style=for-the-badge)](alkrouz.mp4)
+[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch%20Demo%20Video-alkrouz.mp4-02569B?style=for-the-badge)](https://youtube.com/shorts/Eg3gFBInQiE?feature=share)
 
 <br/>
 
